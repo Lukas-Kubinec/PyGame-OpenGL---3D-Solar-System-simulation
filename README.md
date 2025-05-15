@@ -6,8 +6,8 @@ A 3D simulation of the Solar Sytem, that uses simple mathematical concepts, whil
 
 ![image](https://github.com/user-attachments/assets/ca057413-6af3-499c-b49f-63208bd10ac3)
 
-**Math logic:
-**
+**Math logic:**
+
 The movement of the celestial bodies - Planets and the moon is based on the trigonometric concepts. 
 
 **Packages needed:**
